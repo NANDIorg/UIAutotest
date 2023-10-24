@@ -1,5 +1,5 @@
 ﻿# UI-автотесты
-![junit](https://img.shields.io/maven-central/v/junit/junit?versionSuffix=4.13.2&label=Junit) ![Selenium](https://img.shields.io/maven-central/v/org.seleniumhq.selenium/selenium-java?versionPrefix=4.14.1&label=Selenium)
+![junit](https://img.shields.io/maven-central/v/junit/junit?versionSuffix=4.13.2&label=Junit) ![Selenium](https://img.shields.io/maven-central/v/org.seleniumhq.selenium/selenium-java?versionPrefix=4.14.1&label=Selenium) JDK 17
 ___
 Написать автоматические тесты, покрывающие следующие кейсы:
 
